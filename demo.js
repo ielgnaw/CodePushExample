@@ -97,6 +97,7 @@ class CodePushExample extends Component {
                     Welcome to CodePush!
                 </Text>
                 <Text>呵呵今天天气不错</Text>
+                <Text>android oooooo</Text>
                 {syncButton}
                 {syncView}
                 {progressView}

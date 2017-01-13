@@ -32,7 +32,7 @@ public class MainApplication extends Application implements ReactApplication {
     protected List<ReactPackage> getPackages() {
       return Arrays.<ReactPackage>asList(
           new MainReactPackage(),
-            new CodePush(null, getApplicationContext(), BuildConfig.DEBUG)
+            new CodePush("y-uHAxk111Fc7xUjfhVmhkA_Xyum4J9K1BnHf", MainApplication.this, BuildConfig.DEBUG)
       );
     }
   };

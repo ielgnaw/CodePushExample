@@ -1,4 +1,4 @@
-# Code Push 
+# iOS Code Push 
 1. 安装 code-push-cli 工具
 
     `npm install code-push-cli@latest -g`
